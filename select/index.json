@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "base_track": "桜の時",
+  "base_artist": "aiko",
+  "createdAt": "2026-03-27T06:33:31.958008Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "桜の時",
+      "artist": "aiko",
+      "has_synced": false,
+      "path": "select/01_桜の時_aiko.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "桜の時",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/02_桜の時_aiko.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "桜の時 - Sakura no Toki",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/03_桜の時_-_Sakura_no_Toki_aiko.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "桜の時",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/04_桜の時_aiko.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "桜の時",
+      "artist": "aiko",
+      "has_synced": false,
+      "path": "select/pl_01_桜の時_aiko.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "桜の時",
+      "artist": "aiko",
+      "has_synced": false,
+      "path": "select/localdb_01_桜の時_aiko.txt",
+      "repo_name": "fUJzm7ESF0M"
+    }
+  ]
+}
